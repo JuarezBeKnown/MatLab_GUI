@@ -1,2 +1,2 @@
 # MatLab_GUI
-GUI imported .txt data graphs itself with a display table. Feel free to use.
+GUI imports .txt data and graphs itself along with a display table. Feel free to use edit.
