@@ -4,14 +4,15 @@
 ***********
 Graphical User Interface imports .txt data files. Next the data is graphed along with a table displaying data. 
 
+
+
+
 ****************************
 *Created in Matlab, Start*
 ****************************
 1. Create an account here: https://www.mathworks.com/campaigns/products/ppc/google/matlab-trial-request.html?s_eid=ppc_5852767762&q=download%20matlab
 2. Download Matlab 
 3. In command prompt in matlab Type GUIDE and press enter to get started. 
-
-
 
 
 
