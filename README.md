@@ -19,8 +19,8 @@ Created in Matlab, Start
 
 ***********
 *Important*
-***********
-*.m file is where you find the code that responds to GUI
-*.fig file is the where you find the GUI
-* When you create a new object in the .fig file make sure the name of the new object matches the function in .m file
-*Note included are two .txt files to use with this example
+
+1. .m file is where you find the code that responds to GUI
+2. .fig file is the where you find the GUI
+3. When you create a new object in the .fig file make sure the name of the new object matches the function in .m file
+4. Note included are two .txt files to use with this example
